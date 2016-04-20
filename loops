@@ -1,3 +1,7 @@
 Loops in Ruby are used to execute the same block of code a specified number of times
 
+while conditional [do]
+   code
+end
+
 
